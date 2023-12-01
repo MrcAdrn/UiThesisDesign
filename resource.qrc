@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/icons8-about-50.png</file>
+    <file>icon/icons8-close-50.png</file>
+    <file>icon/icons8-connected-50.png</file>
+    <file>icon/icons8-disconnected-50.png</file>
+    <file>icon/icons8-door-50 (4).png</file>
+    <file>icon/icons8-door-50.png</file>
+    <file>icon/icons8-exit-35.png</file>
+    <file>icon/icons8-fan-50.png</file>
+    <file>icon/icons8-menu-50.png</file>
+    <file>icon/Ac.png</file>
+    <file>icon/dashboard.png</file>
+    <file>icon/door.png</file>
+    <file>icon/electricfan.png</file>
+    <file>icon/light.png</file>
+    <file>icon/logo.png</file>
+    <file>icon/Pc.png</file>
+    <file>icon/people.png</file>
+    <file>icon/backward.png</file>
+    <file>icon/forward.png</file>
+  </qresource>
+</RCC>
